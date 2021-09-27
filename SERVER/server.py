@@ -141,7 +141,7 @@ def receive_screenshot(conn):
         f.close()
         print("Image downloaded succesfully in /screenshots")
     else:
-        pass    
+        print("An error was occured while downloading the screenshot")    
 
 #-----Sending the Web-Cam command to the client-----#
 def receive_camera(conn):
