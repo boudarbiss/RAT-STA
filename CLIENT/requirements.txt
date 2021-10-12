@@ -5,7 +5,7 @@ Pillow == 6.2.0
 
 mss == 4.0.3
 
-opencv_python == 4.1.2.30
+opencv_python == 4.2.0.32
 
 
 requests == 2.22.0
